@@ -1,12 +1,12 @@
 <?php
 
-namespace YFDev\System\App\Repositories\Auth;
+namespace HuangChun\MetaSystem\App\Repositories\Auth;
 
 use Illuminate\Auth\AuthManager;
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Str;
 use Mews\Captcha\Captcha;
-use YFDev\System\App\Repositories\BaseRepository;
+use HuangChun\MetaSystem\App\Repositories\BaseRepository;
 
 class AuthRepository extends BaseRepository implements AuthRepositoryInterface
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace YFDev\System\App\Helpers;
+namespace HuangChun\MetaSystem\App\Helpers;
 
 use Illuminate\Database\Eloquent\Model;
-use YFDev\System\App\Models\Notification as NotificationModel;
+use HuangChun\MetaSystem\App\Models\Notification as NotificationModel;
 
 final class NotificationHelper
 {

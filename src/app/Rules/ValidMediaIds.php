@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Rules;
+namespace HuangChun\MetaSystem\App\Rules;
 
 use Illuminate\Contracts\Validation\Rule;
 use Spatie\MediaLibrary\MediaCollections\Models\Media;

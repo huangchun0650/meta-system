@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Extension;
+namespace HuangChun\MetaSystem\App\Extension;
 
 use Jenssegers\Agent\Agent;
 use JetBrains\PhpStorm\ArrayShape;

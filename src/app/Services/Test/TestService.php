@@ -1,9 +1,9 @@
 <?php
 
-namespace YFDev\System\App\Services\Test;
+namespace HuangChun\MetaSystem\App\Services\Test;
 
 use Illuminate\Support\Facades\Redis;
-use YFDev\System\App\Services\BaseService;
+use HuangChun\MetaSystem\App\Services\BaseService;
 use MeiliSearch\Client;
 
 class TestService extends BaseService

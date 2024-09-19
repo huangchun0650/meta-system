@@ -1,12 +1,12 @@
 <?php
 
-namespace YFDev\System\App\Services\Menu;
+namespace HuangChun\MetaSystem\App\Services\Menu;
 
 use Symfony\Component\HttpFoundation\JsonResponse;
-use YFDev\System\App\Exceptions\Request\NotAllowDeleteException;
-use YFDev\System\App\Http\Transforms\Models\MenuTransform;
-use YFDev\System\App\Repositories\Menu\MenuRepositoryInterface;
-use YFDev\System\App\Services\BaseService;
+use HuangChun\MetaSystem\App\Exceptions\Request\NotAllowDeleteException;
+use HuangChun\MetaSystem\App\Http\Transforms\Models\MenuTransform;
+use HuangChun\MetaSystem\App\Repositories\Menu\MenuRepositoryInterface;
+use HuangChun\MetaSystem\App\Services\BaseService;
 
 class MenuService extends BaseService
 {

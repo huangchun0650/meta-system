@@ -1,9 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use YFDev\System\App\Http\Controllers\CustomerController;
-use YFDev\System\App\Http\Controllers\MediaController;
-use YFDev\System\App\Http\Controllers\ThirdPartyLogin\FBSocialiteController;
+use HuangChun\MetaSystem\App\Http\Controllers\CustomerController;
+use HuangChun\MetaSystem\App\Http\Controllers\MediaController;
+use HuangChun\MetaSystem\App\Http\Controllers\ThirdPartyLogin\FBSocialiteController;
 
 /*
 |--------------------------------------------------------------------------

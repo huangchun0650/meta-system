@@ -1,11 +1,11 @@
 <?php
 
-namespace YFDev\System\App\Http\Middleware;
+namespace HuangChun\MetaSystem\App\Http\Middleware;
 
 use Closure;
-use YFDev\System\App\Constants\ErrorCode;
-use YFDev\System\App\Exceptions\Auth\JwtException;
-use YFDev\System\App\Exceptions\Auth\SessionExpiredException;
+use HuangChun\MetaSystem\App\Constants\ErrorCode;
+use HuangChun\MetaSystem\App\Exceptions\Auth\JwtException;
+use HuangChun\MetaSystem\App\Exceptions\Auth\SessionExpiredException;
 
 abstract class AuthMiddleware
 {

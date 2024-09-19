@@ -2,7 +2,7 @@
 
 namespace Database\Seeders;
 
-use YFDev\System\App\Models\Method;
+use HuangChun\MetaSystem\App\Models\Method;
 use Illuminate\Database\Seeder;
 
 class MethodSeeder extends Seeder

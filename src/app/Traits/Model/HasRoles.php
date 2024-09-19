@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Traits\Model;
+namespace HuangChun\MetaSystem\App\Traits\Model;
 
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 use Spatie\Permission\Traits\HasRoles as SpatieHasRoles;

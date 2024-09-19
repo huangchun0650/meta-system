@@ -2,7 +2,7 @@
 
 namespace Database\Factories;
 
-use YFDev\System\App\Models\Menu;
+use HuangChun\MetaSystem\App\Models\Menu;
 use Illuminate\Database\Eloquent\Factories\Factory;
 
 /**

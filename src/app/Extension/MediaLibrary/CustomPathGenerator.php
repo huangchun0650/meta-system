@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Extension\MediaLibrary;
+namespace HuangChun\MetaSystem\App\Extension\MediaLibrary;
 
 use Spatie\MediaLibrary\MediaCollections\Models\Media;
 use Spatie\MediaLibrary\Support\PathGenerator\PathGenerator;

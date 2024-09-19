@@ -1,14 +1,14 @@
 <?php
 
-namespace YFDev\System\App\Http\Middleware;
+namespace HuangChun\MetaSystem\App\Http\Middleware;
 
 use Closure;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Symfony\Component\HttpFoundation\Response;
-use YFDev\System\App\Notifications\PusherQueueNotification;
-use YFDev\System\App\Constants\Pusher;
-use YFDev\System\App\Models\Admin;
+use HuangChun\MetaSystem\App\Notifications\PusherQueueNotification;
+use HuangChun\MetaSystem\App\Constants\Pusher;
+use HuangChun\MetaSystem\App\Models\Admin;
 use Carbon\Carbon;
 
 class CheckTokenExpiry

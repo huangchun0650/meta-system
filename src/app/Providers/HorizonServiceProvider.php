@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Providers;
+namespace HuangChun\MetaSystem\App\Providers;
 
 use Illuminate\Support\Facades\Gate;
 use Laravel\Horizon\HorizonApplicationServiceProvider;

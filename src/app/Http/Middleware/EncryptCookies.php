@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Http\Middleware;
+namespace HuangChun\MetaSystem\App\Http\Middleware;
 
 use Illuminate\Cookie\Middleware\EncryptCookies as Middleware;
 

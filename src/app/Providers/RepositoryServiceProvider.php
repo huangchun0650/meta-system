@@ -1,21 +1,21 @@
 <?php
 
-namespace YFDev\System\App\Providers;
+namespace HuangChun\MetaSystem\App\Providers;
 
-use YFDev\System\App\Repositories\Admin\AdminRepository;
-use YFDev\System\App\Repositories\Admin\AdminRepositoryInterface;
-use YFDev\System\App\Repositories\Auth\AuthRepository;
-use YFDev\System\App\Repositories\Auth\AuthRepositoryInterface;
-use YFDev\System\App\Repositories\Menu\MenuRepository;
-use YFDev\System\App\Repositories\Menu\MenuRepositoryInterface;
-use YFDev\System\App\Repositories\Role\RoleRepository;
-use YFDev\System\App\Repositories\Role\RoleRepositoryInterface;
-use YFDev\System\App\Repositories\Setting\PermissionRepository;
-use YFDev\System\App\Repositories\Setting\PermissionRepositoryInterface;
-use YFDev\System\App\Repositories\Setting\RuleRepository;
-use YFDev\System\App\Repositories\Setting\RuleRepositoryInterface;
-use YFDev\System\App\Repositories\Setting\MethodRepository;
-use YFDev\System\App\Repositories\Setting\MethodRepositoryInterface;
+use HuangChun\MetaSystem\App\Repositories\Admin\AdminRepository;
+use HuangChun\MetaSystem\App\Repositories\Admin\AdminRepositoryInterface;
+use HuangChun\MetaSystem\App\Repositories\Auth\AuthRepository;
+use HuangChun\MetaSystem\App\Repositories\Auth\AuthRepositoryInterface;
+use HuangChun\MetaSystem\App\Repositories\Menu\MenuRepository;
+use HuangChun\MetaSystem\App\Repositories\Menu\MenuRepositoryInterface;
+use HuangChun\MetaSystem\App\Repositories\Role\RoleRepository;
+use HuangChun\MetaSystem\App\Repositories\Role\RoleRepositoryInterface;
+use HuangChun\MetaSystem\App\Repositories\Setting\PermissionRepository;
+use HuangChun\MetaSystem\App\Repositories\Setting\PermissionRepositoryInterface;
+use HuangChun\MetaSystem\App\Repositories\Setting\RuleRepository;
+use HuangChun\MetaSystem\App\Repositories\Setting\RuleRepositoryInterface;
+use HuangChun\MetaSystem\App\Repositories\Setting\MethodRepository;
+use HuangChun\MetaSystem\App\Repositories\Setting\MethodRepositoryInterface;
 use Illuminate\Support\ServiceProvider;
 
 class RepositoryServiceProvider extends ServiceProvider

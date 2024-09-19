@@ -1,10 +1,10 @@
 <?php
 
-namespace YFDev\System\App\Repositories\Menu;
+namespace HuangChun\MetaSystem\App\Repositories\Menu;
 
-use YFDev\System\App\Models\Menu;
-use YFDev\System\App\Models\Rule;
-use YFDev\System\App\Repositories\BaseRepository;
+use HuangChun\MetaSystem\App\Models\Menu;
+use HuangChun\MetaSystem\App\Models\Rule;
+use HuangChun\MetaSystem\App\Repositories\BaseRepository;
 
 class MenuRepository extends BaseRepository implements MenuRepositoryInterface
 {

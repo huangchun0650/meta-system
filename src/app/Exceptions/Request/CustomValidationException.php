@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Exceptions\Request;
+namespace HuangChun\MetaSystem\App\Exceptions\Request;
 
 use Exception;
 use Throwable;

@@ -198,13 +198,13 @@ return [
         /*
          * Application Service Providers...
          */
-        YFDev\System\App\Providers\AppServiceProvider::class,
-        YFDev\System\App\Providers\AuthServiceProvider::class,
-        YFDev\System\App\Providers\BroadcastServiceProvider::class,
-        YFDev\System\App\Providers\EventServiceProvider::class,
-        YFDev\System\App\Providers\HorizonServiceProvider::class,
-        YFDev\System\App\Providers\RouteServiceProvider::class,
-        YFDev\System\App\Providers\RepositoryServiceProvider::class,
+        HuangChun\MetaSystem\App\Providers\AppServiceProvider::class,
+        HuangChun\MetaSystem\App\Providers\AuthServiceProvider::class,
+        HuangChun\MetaSystem\App\Providers\BroadcastServiceProvider::class,
+        HuangChun\MetaSystem\App\Providers\EventServiceProvider::class,
+        HuangChun\MetaSystem\App\Providers\HorizonServiceProvider::class,
+        HuangChun\MetaSystem\App\Providers\RouteServiceProvider::class,
+        HuangChun\MetaSystem\App\Providers\RepositoryServiceProvider::class,
     ],
 
     /*

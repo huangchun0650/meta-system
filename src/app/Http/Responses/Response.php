@@ -1,11 +1,11 @@
 <?php
 
-namespace YFDev\System\App\Http\Responses;
+namespace HuangChun\MetaSystem\App\Http\Responses;
 
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Resources\Json\JsonResource;
 use Illuminate\Support\Collection;
-use YFDev\System\App\Constants\ErrorCode;
+use HuangChun\MetaSystem\App\Constants\ErrorCode;
 
 class Response
 {

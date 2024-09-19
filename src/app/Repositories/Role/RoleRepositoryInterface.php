@@ -1,8 +1,8 @@
 <?php
 
-namespace YFDev\System\App\Repositories\Role;
+namespace HuangChun\MetaSystem\App\Repositories\Role;
 
-use YFDev\System\App\Repositories\BaseRepositoryInterface;
+use HuangChun\MetaSystem\App\Repositories\BaseRepositoryInterface;
 
 interface RoleRepositoryInterface extends BaseRepositoryInterface
 {

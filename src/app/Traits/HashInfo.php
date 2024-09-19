@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Traits;
+namespace HuangChun\MetaSystem\App\Traits;
 
 trait HashInfo
 {

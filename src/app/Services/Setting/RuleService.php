@@ -1,11 +1,11 @@
 <?php
 
-namespace YFDev\System\App\Services\Setting;
+namespace HuangChun\MetaSystem\App\Services\Setting;
 
 use Symfony\Component\HttpFoundation\JsonResponse;
-use YFDev\System\App\Http\Transforms\Models\RuleTransform;
-use YFDev\System\App\Repositories\Setting\RuleRepositoryInterface;
-use YFDev\System\App\Services\BaseService;
+use HuangChun\MetaSystem\App\Http\Transforms\Models\RuleTransform;
+use HuangChun\MetaSystem\App\Repositories\Setting\RuleRepositoryInterface;
+use HuangChun\MetaSystem\App\Services\BaseService;
 
 class RuleService extends BaseService
 {

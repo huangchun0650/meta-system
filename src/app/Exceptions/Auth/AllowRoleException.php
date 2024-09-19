@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Exceptions\Auth;
+namespace HuangChun\MetaSystem\App\Exceptions\Auth;
 
 /**
  * 允許角色

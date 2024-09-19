@@ -1,9 +1,9 @@
 <?php
 
-namespace YFDev\System\App\Repositories\Admin;
+namespace HuangChun\MetaSystem\App\Repositories\Admin;
 
-use YFDev\System\App\Models\Admin;
-use YFDev\System\App\Repositories\BaseRepository;
+use HuangChun\MetaSystem\App\Models\Admin;
+use HuangChun\MetaSystem\App\Repositories\BaseRepository;
 
 class AdminRepository extends BaseRepository implements AdminRepositoryInterface
 {

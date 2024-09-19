@@ -1,12 +1,12 @@
 <?php
 
-namespace YFDev\System\App\Http\Controllers;
+namespace HuangChun\MetaSystem\App\Http\Controllers;
 
-use YFDev\System\App\Models\DummyNamespace;
-use YFDev\System\App\Services\DummyNamespace\DummyClassService;
-use YFDev\System\App\Http\Requests\DummyNamespace\CreateRequest;
-use YFDev\System\App\Http\Requests\DummyNamespace\UpdateRequest;
-use YFDev\System\App\Http\Requests\DummyNamespace\ListRequest;
+use HuangChun\MetaSystem\App\Models\DummyNamespace;
+use HuangChun\MetaSystem\App\Services\DummyNamespace\DummyClassService;
+use HuangChun\MetaSystem\App\Http\Requests\DummyNamespace\CreateRequest;
+use HuangChun\MetaSystem\App\Http\Requests\DummyNamespace\UpdateRequest;
+use HuangChun\MetaSystem\App\Http\Requests\DummyNamespace\ListRequest;
 
 class DummyClassController extends Controller
 {

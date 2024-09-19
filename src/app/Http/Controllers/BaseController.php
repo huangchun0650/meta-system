@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Http\Controllers;
+namespace HuangChun\MetaSystem\App\Http\Controllers;
 
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 use Illuminate\Foundation\Validation\ValidatesRequests;

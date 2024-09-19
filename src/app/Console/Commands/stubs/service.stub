@@ -1,15 +1,15 @@
 <?php
 
-namespace YFDev\System\App\Services\DummyNamespace;
+namespace HuangChun\MetaSystem\App\Services\DummyNamespace;
 
 use Exception;
-use YFDev\System\App\Services\BaseService;
+use HuangChun\MetaSystem\App\Services\BaseService;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Log;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Illuminate\Auth\AuthManager;
-use YFDev\System\App\Http\Transforms\Models\DummyClassTransform;
-use YFDev\System\App\Repositories\DummyNamespace\DummyClassInterface;
+use HuangChun\MetaSystem\App\Http\Transforms\Models\DummyClassTransform;
+use HuangChun\MetaSystem\App\Repositories\DummyNamespace\DummyClassInterface;
 
 class DummyClassService extends BaseService
 {

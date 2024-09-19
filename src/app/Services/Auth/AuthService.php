@@ -1,12 +1,12 @@
 <?php
 
-namespace YFDev\System\App\Services\Auth;
+namespace HuangChun\MetaSystem\App\Services\Auth;
 
 use Exception;
 use Illuminate\Support\Facades\Log;
-use YFDev\System\App\Repositories\Auth\AuthRepositoryInterface;
-use YFDev\System\App\Repositories\Menu\MenuRepositoryInterface;
-use YFDev\System\App\Services\BaseService;
+use HuangChun\MetaSystem\App\Repositories\Auth\AuthRepositoryInterface;
+use HuangChun\MetaSystem\App\Repositories\Menu\MenuRepositoryInterface;
+use HuangChun\MetaSystem\App\Services\BaseService;
 
 class AuthService extends BaseService
 {

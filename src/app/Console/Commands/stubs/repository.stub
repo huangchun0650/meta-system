@@ -1,9 +1,9 @@
 <?php
 
-namespace YFDev\System\App\Repositories\DummyNamespace;
+namespace HuangChun\MetaSystem\App\Repositories\DummyNamespace;
 
-use YFDev\System\App\Models\DummyModel;
-use YFDev\System\App\Repositories\BaseRepository;
+use HuangChun\MetaSystem\App\Models\DummyModel;
+use HuangChun\MetaSystem\App\Repositories\BaseRepository;
 
 class DummyClassRepository extends BaseRepository implements DummyClassRepositoryInterface
 {

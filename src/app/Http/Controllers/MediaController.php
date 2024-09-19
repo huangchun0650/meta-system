@@ -1,10 +1,10 @@
 <?php
 
-namespace YFDev\System\App\Http\Controllers;
+namespace HuangChun\MetaSystem\App\Http\Controllers;
 
 use Illuminate\Support\Facades\Storage;
-use YFDev\System\App\Constants\ErrorCode;
-use YFDev\System\App\Services\Media\MediaService;
+use HuangChun\MetaSystem\App\Constants\ErrorCode;
+use HuangChun\MetaSystem\App\Services\Media\MediaService;
 
 class MediaController extends BaseController
 {

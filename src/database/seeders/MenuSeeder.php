@@ -2,7 +2,7 @@
 
 namespace Database\Seeders;
 
-use YFDev\System\App\Models\Menu;
+use HuangChun\MetaSystem\App\Models\Menu;
 use Illuminate\Database\Seeder;
 
 class MenuSeeder extends Seeder

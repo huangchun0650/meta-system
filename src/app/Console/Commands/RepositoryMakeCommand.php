@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Console\Commands;
+namespace HuangChun\MetaSystem\App\Console\Commands;
 
 use Illuminate\Console\GeneratorCommand;
 use Symfony\Component\Console\Input\InputArgument;
@@ -116,7 +116,7 @@ class RepositoryMakeCommand extends GeneratorCommand
 
         $useStatements = "use {$interfaceNamespace};\nuse {$repoNamespace};";
         if (!str_contains($content, "use {$interfaceNamespace};")) {
-            $content = preg_replace('/(namespace YFDev\System\App\\\\Providers;)/', "$1\n{$useStatements}", $content);
+            $content = preg_replace('/(namespace HuangChun\MetaSystem\App\\\\Providers;)/', "$1\n{$useStatements}", $content);
         }
 
         $newBinding = "\$this->app->bind(\n            {$interfaceShortName}::class,\n            {$repoShortName}::class\n        );\n";

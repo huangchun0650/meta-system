@@ -1,12 +1,12 @@
 <?php
 
-namespace YFDev\System\App\Http\Controllers;
+namespace HuangChun\MetaSystem\App\Http\Controllers;
 
 use Spatie\Permission\Models\Role;
-use YFDev\System\App\Http\Requests\Role\CreateRequest;
-use YFDev\System\App\Http\Requests\Role\ListRequest;
-use YFDev\System\App\Http\Requests\Role\UpdateRequest;
-use YFDev\System\App\Services\Role\RoleService;
+use HuangChun\MetaSystem\App\Http\Requests\Role\CreateRequest;
+use HuangChun\MetaSystem\App\Http\Requests\Role\ListRequest;
+use HuangChun\MetaSystem\App\Http\Requests\Role\UpdateRequest;
+use HuangChun\MetaSystem\App\Services\Role\RoleService;
 
 class RoleController extends BaseController
 {

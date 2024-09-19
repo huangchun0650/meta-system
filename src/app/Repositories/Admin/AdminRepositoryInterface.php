@@ -1,8 +1,8 @@
 <?php
 
-namespace YFDev\System\App\Repositories\Admin;
+namespace HuangChun\MetaSystem\App\Repositories\Admin;
 
-use YFDev\System\App\Repositories\BaseRepositoryInterface;
+use HuangChun\MetaSystem\App\Repositories\BaseRepositoryInterface;
 
 interface AdminRepositoryInterface extends BaseRepositoryInterface
 {

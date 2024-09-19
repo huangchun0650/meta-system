@@ -1,8 +1,8 @@
 <?php
 
-namespace YFDev\System\App\Repositories\Menu;
+namespace HuangChun\MetaSystem\App\Repositories\Menu;
 
-use YFDev\System\App\Repositories\BaseRepositoryInterface;
+use HuangChun\MetaSystem\App\Repositories\BaseRepositoryInterface;
 
 interface MenuRepositoryInterface extends BaseRepositoryInterface
 {

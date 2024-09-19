@@ -1,10 +1,10 @@
 <?php
 
-namespace YFDev\System\App\Http\Requests\Role;
+namespace HuangChun\MetaSystem\App\Http\Requests\Role;
 
 use Illuminate\Validation\Rule;
-use YFDev\System\App\Exceptions\Request\NotAllowUpdateException;
-use YFDev\System\App\Http\Requests\BaseRequest;
+use HuangChun\MetaSystem\App\Exceptions\Request\NotAllowUpdateException;
+use HuangChun\MetaSystem\App\Http\Requests\BaseRequest;
 
 class UpdateRequest extends BaseRequest
 {

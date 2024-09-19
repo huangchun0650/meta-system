@@ -1,9 +1,9 @@
 <?php
 
-namespace YFDev\System\App\Repositories\Notification;
+namespace HuangChun\MetaSystem\App\Repositories\Notification;
 
-use YFDev\System\App\Models\Notification;
-use YFDev\System\App\Repositories\BaseRepository;
+use HuangChun\MetaSystem\App\Models\Notification;
+use HuangChun\MetaSystem\App\Repositories\BaseRepository;
 
 class NotificationRepository extends BaseRepository implements NotificationRepositoryInterface
 {

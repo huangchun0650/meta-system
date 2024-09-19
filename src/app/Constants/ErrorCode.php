@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Constants;
+namespace HuangChun\MetaSystem\App\Constants;
 
 final class ErrorCode
 {

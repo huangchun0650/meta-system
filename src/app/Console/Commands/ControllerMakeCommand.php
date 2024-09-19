@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Console\Commands;
+namespace HuangChun\MetaSystem\App\Console\Commands;
 
 use Illuminate\Console\GeneratorCommand;
 

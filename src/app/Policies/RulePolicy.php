@@ -1,9 +1,9 @@
 <?php
 
-namespace YFDev\System\App\Policies;
+namespace HuangChun\MetaSystem\App\Policies;
 
-use YFDev\System\App\Models\Admin;
-use YFDev\System\App\Models\Rule;
+use HuangChun\MetaSystem\App\Models\Admin;
+use HuangChun\MetaSystem\App\Models\Rule;
 use Illuminate\Auth\Access\HandlesAuthorization;
 
 class RulePolicy

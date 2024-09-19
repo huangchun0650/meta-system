@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Traits;
+namespace HuangChun\MetaSystem\App\Traits;
 
 use Illuminate\Database\Eloquent\Builder as EloquentBuilder;
 use Illuminate\Database\Query\Builder as QueryBuilder;

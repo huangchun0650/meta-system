@@ -1,11 +1,11 @@
 <?php
 
-namespace YFDev\System\App\Services\Setting;
+namespace HuangChun\MetaSystem\App\Services\Setting;
 
 use Symfony\Component\HttpFoundation\JsonResponse;
-use YFDev\System\App\Http\Transforms\Models\MethodTransform;
-use YFDev\System\App\Repositories\Setting\MethodRepositoryInterface;
-use YFDev\System\App\Services\BaseService;
+use HuangChun\MetaSystem\App\Http\Transforms\Models\MethodTransform;
+use HuangChun\MetaSystem\App\Repositories\Setting\MethodRepositoryInterface;
+use HuangChun\MetaSystem\App\Services\BaseService;
 
 class MethodService extends BaseService
 {

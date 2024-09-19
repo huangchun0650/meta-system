@@ -1,11 +1,11 @@
 <?php
 
-namespace YFDev\System\App\Services\Setting;
+namespace HuangChun\MetaSystem\App\Services\Setting;
 
 use Symfony\Component\HttpFoundation\JsonResponse;
-use YFDev\System\App\Http\Transforms\Models\PermissionTransform;
-use YFDev\System\App\Repositories\Setting\PermissionRepositoryInterface;
-use YFDev\System\App\Services\BaseService;
+use HuangChun\MetaSystem\App\Http\Transforms\Models\PermissionTransform;
+use HuangChun\MetaSystem\App\Repositories\Setting\PermissionRepositoryInterface;
+use HuangChun\MetaSystem\App\Services\BaseService;
 
 class PermissionService extends BaseService
 {

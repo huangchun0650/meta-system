@@ -1,9 +1,9 @@
 <?php
 
-namespace YFDev\System\App\Repositories\Setting;
+namespace HuangChun\MetaSystem\App\Repositories\Setting;
 
 use Spatie\Permission\Models\Permission;
-use YFDev\System\App\Repositories\BaseRepository;
+use HuangChun\MetaSystem\App\Repositories\BaseRepository;
 
 class PermissionRepository extends BaseRepository implements PermissionRepositoryInterface
 {

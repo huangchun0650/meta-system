@@ -2,7 +2,7 @@
 
 namespace Database\Seeders;
 
-use YFDev\System\App\Models\Rule;
+use HuangChun\MetaSystem\App\Models\Rule;
 use Illuminate\Database\Seeder;
 
 class RuleSeeder extends Seeder

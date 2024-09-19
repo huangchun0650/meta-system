@@ -1,8 +1,8 @@
 <?php
 
-namespace YFDev\System\App\Repositories\Notification;
+namespace HuangChun\MetaSystem\App\Repositories\Notification;
 
-use YFDev\System\App\Repositories\BaseRepositoryInterface;
+use HuangChun\MetaSystem\App\Repositories\BaseRepositoryInterface;
 
 interface NotificationRepositoryInterface extends BaseRepositoryInterface
 {

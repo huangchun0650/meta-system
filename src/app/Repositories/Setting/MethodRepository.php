@@ -1,9 +1,9 @@
 <?php
 
-namespace YFDev\System\App\Repositories\Setting;
+namespace HuangChun\MetaSystem\App\Repositories\Setting;
 
-use YFDev\System\App\Models\Method;
-use YFDev\System\App\Repositories\BaseRepository;
+use HuangChun\MetaSystem\App\Models\Method;
+use HuangChun\MetaSystem\App\Repositories\BaseRepository;
 
 class MethodRepository extends BaseRepository implements MethodRepositoryInterface
 {

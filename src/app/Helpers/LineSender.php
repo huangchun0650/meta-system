@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Helpers;
+namespace HuangChun\MetaSystem\App\Helpers;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;

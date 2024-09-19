@@ -1,12 +1,12 @@
 <?php
 
-namespace YFDev\System\App\Http\Middleware;
+namespace HuangChun\MetaSystem\App\Http\Middleware;
 
 use Closure;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Symfony\Component\HttpFoundation\Response;
-use YFDev\System\App\Providers\RouteServiceProvider;
+use HuangChun\MetaSystem\App\Providers\RouteServiceProvider;
 
 class RedirectIfAuthenticated
 {

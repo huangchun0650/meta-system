@@ -1,9 +1,9 @@
 <?php
 
-namespace YFDev\System\App\Services\Media;
+namespace HuangChun\MetaSystem\App\Services\Media;
 
 use Spatie\MediaLibrary\MediaCollections\Models\Media;
-use YFDev\System\App\Services\BaseService;
+use HuangChun\MetaSystem\App\Services\BaseService;
 
 class MediaService extends BaseService
 {

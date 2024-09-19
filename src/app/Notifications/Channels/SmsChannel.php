@@ -1,10 +1,10 @@
 <?php
 
-namespace YFDev\System\App\Notifications\Channels;
+namespace HuangChun\MetaSystem\App\Notifications\Channels;
 
 use Illuminate\Notifications\Notification;
 use Illuminate\Support\Facades\Log;
-use YFDev\System\App\Helpers\SmSender;
+use HuangChun\MetaSystem\App\Helpers\SmSender;
 
 final class SmsChannel
 {

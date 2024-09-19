@@ -1,8 +1,8 @@
 <?php
 
-namespace YFDev\System\App\Services;
+namespace HuangChun\MetaSystem\App\Services;
 
-use YFDev\System\App\Constants\ErrorCode;
+use HuangChun\MetaSystem\App\Constants\ErrorCode;
 use Illuminate\Support\Facades\Hash;
 use Spatie\Permission\Models\Permission;
 use Illuminate\Support\Facades\Auth;

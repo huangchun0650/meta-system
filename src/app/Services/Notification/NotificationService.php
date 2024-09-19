@@ -1,12 +1,12 @@
 <?php
 
-namespace YFDev\System\App\Services\Notification;
+namespace HuangChun\MetaSystem\App\Services\Notification;
 
 use Illuminate\Auth\AuthManager;
 use Symfony\Component\HttpFoundation\JsonResponse;
-use YFDev\System\App\Http\Transforms\Models\NotificationTransform;
-use YFDev\System\App\Repositories\Notification\NotificationRepositoryInterface;
-use YFDev\System\App\Services\BaseService;
+use HuangChun\MetaSystem\App\Http\Transforms\Models\NotificationTransform;
+use HuangChun\MetaSystem\App\Repositories\Notification\NotificationRepositoryInterface;
+use HuangChun\MetaSystem\App\Services\BaseService;
 
 class NotificationService extends BaseService
 {

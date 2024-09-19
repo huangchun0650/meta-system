@@ -1,8 +1,8 @@
 <?php
 
-namespace YFDev\System\App\Repositories\Setting;
+namespace HuangChun\MetaSystem\App\Repositories\Setting;
 
-use YFDev\System\App\Repositories\BaseRepositoryInterface;
+use HuangChun\MetaSystem\App\Repositories\BaseRepositoryInterface;
 
 interface RuleRepositoryInterface extends BaseRepositoryInterface
 {

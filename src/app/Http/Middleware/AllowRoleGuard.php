@@ -1,10 +1,10 @@
 <?php
 
-namespace YFDev\System\App\Http\Middleware;
+namespace HuangChun\MetaSystem\App\Http\Middleware;
 
 use Illuminate\Http\Request;
-use YFDev\System\App\Constants\ErrorCode;
-use YFDev\System\App\Exceptions\Auth\AllowRoleException;
+use HuangChun\MetaSystem\App\Constants\ErrorCode;
+use HuangChun\MetaSystem\App\Exceptions\Auth\AllowRoleException;
 
 /**
  * 允許的角色 Guard

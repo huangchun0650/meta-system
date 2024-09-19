@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Notifications;
+namespace HuangChun\MetaSystem\App\Notifications;
 
 use Illuminate\Notifications\Notification;
 use NotificationChannels\Telegram\TelegramChannel;

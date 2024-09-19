@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Http\Transforms\Models;
+namespace HuangChun\MetaSystem\App\Http\Transforms\Models;
 
 use HuangChun\TransformApi\Resources;
 use HuangChun\TransformApi\Transform;

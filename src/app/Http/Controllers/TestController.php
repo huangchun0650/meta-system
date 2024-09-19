@@ -1,8 +1,8 @@
 <?php
 
-namespace YFDev\System\App\Http\Controllers;
+namespace HuangChun\MetaSystem\App\Http\Controllers;
 
-use YFDev\System\App\Services\Test\TestService;
+use HuangChun\MetaSystem\App\Services\Test\TestService;
 
 class TestController extends BaseController
 {

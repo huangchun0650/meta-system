@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Providers;
+namespace HuangChun\MetaSystem\App\Providers;
 
 use Illuminate\Auth\Events\Registered;
 use Illuminate\Auth\Listeners\SendEmailVerificationNotification;

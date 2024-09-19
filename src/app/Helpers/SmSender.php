@@ -1,10 +1,10 @@
 <?php
 
-namespace YFDev\System\App\Helpers;
+namespace HuangChun\MetaSystem\App\Helpers;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
-use YFDev\System\App\Constants\ErrorCode;
+use HuangChun\MetaSystem\App\Constants\ErrorCode;
 use Illuminate\Support\Facades\Log;
 
 class SmSender

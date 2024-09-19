@@ -1,9 +1,9 @@
 <?php
 
-namespace YFDev\System\App\Repositories\Setting;
+namespace HuangChun\MetaSystem\App\Repositories\Setting;
 
-use YFDev\System\App\Models\Rule;
-use YFDev\System\App\Repositories\BaseRepository;
+use HuangChun\MetaSystem\App\Models\Rule;
+use HuangChun\MetaSystem\App\Repositories\BaseRepository;
 
 class RuleRepository extends BaseRepository implements RuleRepositoryInterface
 {

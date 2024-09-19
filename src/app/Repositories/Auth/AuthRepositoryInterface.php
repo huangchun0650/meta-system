@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Repositories\Auth;
+namespace HuangChun\MetaSystem\App\Repositories\Auth;
 
 interface AuthRepositoryInterface
 {

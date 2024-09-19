@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Providers;
+namespace HuangChun\MetaSystem\App\Providers;
 
 use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;
 use Illuminate\Routing\Route as Routing;

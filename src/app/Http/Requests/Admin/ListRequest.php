@@ -1,8 +1,8 @@
 <?php
 
-namespace YFDev\System\App\Http\Requests\Admin;
+namespace HuangChun\MetaSystem\App\Http\Requests\Admin;
 
-use YFDev\System\App\Http\Requests\BaseRequest;
+use HuangChun\MetaSystem\App\Http\Requests\BaseRequest;
 
 class ListRequest extends BaseRequest
 {

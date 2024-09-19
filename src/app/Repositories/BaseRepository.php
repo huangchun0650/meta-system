@@ -1,13 +1,13 @@
 <?php
 
-namespace YFDev\System\App\Repositories;
+namespace HuangChun\MetaSystem\App\Repositories;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Illuminate\Pagination\LengthAwarePaginator;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
-use YFDev\System\App\Constants\Paginate;
+use HuangChun\MetaSystem\App\Constants\Paginate;
 
 abstract class BaseRepository implements BaseRepositoryInterface
 {

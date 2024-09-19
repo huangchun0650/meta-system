@@ -1,11 +1,11 @@
 <?php
 
-namespace YFDev\System\App\Notifications\Channels;
+namespace HuangChun\MetaSystem\App\Notifications\Channels;
 
-use YFDev\System\App\Constants\Pusher;
-use YFDev\System\App\Notifications\PusherQueueNotification;
+use HuangChun\MetaSystem\App\Constants\Pusher;
+use HuangChun\MetaSystem\App\Notifications\PusherQueueNotification;
 use Illuminate\Notifications\Notification;
-use YFDev\System\App\Models\Admin;
+use HuangChun\MetaSystem\App\Models\Admin;
 
 final class NotificationChannel
 {

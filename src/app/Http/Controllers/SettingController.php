@@ -1,17 +1,17 @@
 <?php
 
-namespace YFDev\System\App\Http\Controllers;
+namespace HuangChun\MetaSystem\App\Http\Controllers;
 
-use YFDev\System\App\Http\Requests\Menu\UpdateRulesRequest;
-use YFDev\System\App\Http\Requests\Setting\Rule\CreateRequest as RuleCreateRequest;
-use YFDev\System\App\Http\Requests\Setting\Rule\ListRequest as RuleListRequest;
-use YFDev\System\App\Http\Requests\Setting\Rule\UpdateRequest as RuleUpdateRequest;
-use YFDev\System\App\Models\Menu;
-use YFDev\System\App\Models\Rule;
-use YFDev\System\App\Services\Menu\MenuService;
-use YFDev\System\App\Services\Setting\MethodService;
-use YFDev\System\App\Services\Setting\PermissionService;
-use YFDev\System\App\Services\Setting\RuleService;
+use HuangChun\MetaSystem\App\Http\Requests\Menu\UpdateRulesRequest;
+use HuangChun\MetaSystem\App\Http\Requests\Setting\Rule\CreateRequest as RuleCreateRequest;
+use HuangChun\MetaSystem\App\Http\Requests\Setting\Rule\ListRequest as RuleListRequest;
+use HuangChun\MetaSystem\App\Http\Requests\Setting\Rule\UpdateRequest as RuleUpdateRequest;
+use HuangChun\MetaSystem\App\Models\Menu;
+use HuangChun\MetaSystem\App\Models\Rule;
+use HuangChun\MetaSystem\App\Services\Menu\MenuService;
+use HuangChun\MetaSystem\App\Services\Setting\MethodService;
+use HuangChun\MetaSystem\App\Services\Setting\PermissionService;
+use HuangChun\MetaSystem\App\Services\Setting\RuleService;
 
 class SettingController extends BaseController
 {

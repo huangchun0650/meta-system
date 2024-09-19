@@ -1,10 +1,10 @@
 <?php
 
-namespace YFDev\System\App\Repositories\Role;
+namespace HuangChun\MetaSystem\App\Repositories\Role;
 
 use Spatie\Permission\Models\Permission;
 use Spatie\Permission\Models\Role;
-use YFDev\System\App\Repositories\BaseRepository;
+use HuangChun\MetaSystem\App\Repositories\BaseRepository;
 
 class RoleRepository extends BaseRepository implements RoleRepositoryInterface
 {

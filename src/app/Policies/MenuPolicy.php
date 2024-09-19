@@ -1,9 +1,9 @@
 <?php
 
-namespace YFDev\System\App\Policies;
+namespace HuangChun\MetaSystem\App\Policies;
 
-use YFDev\System\App\Models\Admin;
-use YFDev\System\App\Models\Menu;
+use HuangChun\MetaSystem\App\Models\Admin;
+use HuangChun\MetaSystem\App\Models\Menu;
 use Illuminate\Auth\Access\HandlesAuthorization;
 
 class MenuPolicy

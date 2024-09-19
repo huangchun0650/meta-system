@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\LogViewer;
+namespace HuangChun\MetaSystem\App\LogViewer;
 
 use Opcodes\LogViewer\Logs\Log;
 

@@ -1,9 +1,9 @@
 <?php
 
-namespace YFDev\System\App\Http\Requests\Admin;
+namespace HuangChun\MetaSystem\App\Http\Requests\Admin;
 
 use Illuminate\Validation\Rule;
-use YFDev\System\App\Http\Requests\BaseRequest;
+use HuangChun\MetaSystem\App\Http\Requests\BaseRequest;
 
 class RegisterRequest extends BaseRequest
 {

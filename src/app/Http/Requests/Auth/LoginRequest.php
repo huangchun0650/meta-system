@@ -1,9 +1,9 @@
 <?php
 
-namespace YFDev\System\App\Http\Requests\Auth;
+namespace HuangChun\MetaSystem\App\Http\Requests\Auth;
 
-use YFDev\System\App\Exceptions\Request\CaptchaException;
-use YFDev\System\App\Http\Requests\BaseRequest;
+use HuangChun\MetaSystem\App\Exceptions\Request\CaptchaException;
+use HuangChun\MetaSystem\App\Http\Requests\BaseRequest;
 
 class LoginRequest extends BaseRequest
 {

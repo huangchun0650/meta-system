@@ -1,12 +1,12 @@
 <?php
 
-namespace YFDev\System\App\Http\Controllers;
+namespace HuangChun\MetaSystem\App\Http\Controllers;
 
-use YFDev\System\App\Models\Admin;
-use YFDev\System\App\Services\Admin\AdminService;
-use YFDev\System\App\Http\Requests\Admin\RegisterRequest;
-use YFDev\System\App\Http\Requests\Admin\UpdateRequest;
-use YFDev\System\App\Http\Requests\Admin\ListRequest;
+use HuangChun\MetaSystem\App\Models\Admin;
+use HuangChun\MetaSystem\App\Services\Admin\AdminService;
+use HuangChun\MetaSystem\App\Http\Requests\Admin\RegisterRequest;
+use HuangChun\MetaSystem\App\Http\Requests\Admin\UpdateRequest;
+use HuangChun\MetaSystem\App\Http\Requests\Admin\ListRequest;
 
 class AdminController extends BaseController
 {

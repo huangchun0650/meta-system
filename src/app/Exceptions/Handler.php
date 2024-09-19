@@ -1,12 +1,12 @@
 <?php
 
-namespace YFDev\System\App\Exceptions;
+namespace HuangChun\MetaSystem\App\Exceptions;
 
-use YFDev\System\App\Constants\ErrorCode;
-use YFDev\System\App\Exceptions\Auth\AuthorizationException;
+use HuangChun\MetaSystem\App\Constants\ErrorCode;
+use HuangChun\MetaSystem\App\Exceptions\Auth\AuthorizationException;
 use Illuminate\Auth\AuthenticationException;
-use YFDev\System\App\Exceptions\Request\NotAllowDeleteException;
-use YFDev\System\App\Exceptions\Request\CustomValidationException;
+use HuangChun\MetaSystem\App\Exceptions\Request\NotAllowDeleteException;
+use HuangChun\MetaSystem\App\Exceptions\Request\CustomValidationException;
 use GuzzleHttp\Exception\GuzzleException;
 use Illuminate\Auth\Access\AuthorizationException as PermissionException;
 use Illuminate\Database\Eloquent\ModelNotFoundException;

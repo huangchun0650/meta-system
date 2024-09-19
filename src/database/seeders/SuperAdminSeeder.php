@@ -2,7 +2,7 @@
 
 namespace Database\Seeders;
 
-use YFDev\System\App\Models\Admin;
+use HuangChun\MetaSystem\App\Models\Admin;
 use Spatie\Permission\Models\Role;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\Hash;

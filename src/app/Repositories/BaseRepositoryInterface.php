@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Repositories;
+namespace HuangChun\MetaSystem\App\Repositories;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Pagination\LengthAwarePaginator;

@@ -1,10 +1,10 @@
 <?php
 
-namespace YFDev\System\App\Http\Middleware;
+namespace HuangChun\MetaSystem\App\Http\Middleware;
 
 use Illuminate\http\Request;
-use YFDev\System\App\Constants\ErrorCode;
-use YFDev\System\App\Exceptions\Auth\AllowUserRoleException;
+use HuangChun\MetaSystem\App\Constants\ErrorCode;
+use HuangChun\MetaSystem\App\Exceptions\Auth\AllowUserRoleException;
 
 /**
  * 允許的 User Role

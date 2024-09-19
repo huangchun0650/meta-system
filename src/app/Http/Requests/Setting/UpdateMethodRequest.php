@@ -1,9 +1,9 @@
 <?php
 
-namespace YFDev\System\App\Http\Requests\Setting;
+namespace HuangChun\MetaSystem\App\Http\Requests\Setting;
 
 use Illuminate\Validation\Rule;
-use YFDev\System\App\Http\Requests\BaseRequest;
+use HuangChun\MetaSystem\App\Http\Requests\BaseRequest;
 
 class UpdateMethodRequest extends BaseRequest
 {

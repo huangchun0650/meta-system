@@ -1,16 +1,16 @@
 <?php
 
-namespace YFDev\System\App\Services\Role;
+namespace HuangChun\MetaSystem\App\Services\Role;
 
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Log;
 use Symfony\Component\HttpFoundation\JsonResponse;
-use YFDev\System\App\Exceptions\Request\NotAllowDeleteException;
-use YFDev\System\App\Http\Transforms\Models\RoleTransform;
-use YFDev\System\App\Models\Admin;
-use YFDev\System\App\Repositories\Menu\MenuRepositoryInterface;
-use YFDev\System\App\Repositories\Role\RoleRepositoryInterface;
-use YFDev\System\App\Services\BaseService;
+use HuangChun\MetaSystem\App\Exceptions\Request\NotAllowDeleteException;
+use HuangChun\MetaSystem\App\Http\Transforms\Models\RoleTransform;
+use HuangChun\MetaSystem\App\Models\Admin;
+use HuangChun\MetaSystem\App\Repositories\Menu\MenuRepositoryInterface;
+use HuangChun\MetaSystem\App\Repositories\Role\RoleRepositoryInterface;
+use HuangChun\MetaSystem\App\Services\BaseService;
 
 class RoleService extends BaseService
 {

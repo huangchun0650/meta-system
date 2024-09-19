@@ -1,6 +1,6 @@
 <?php
 
-namespace YFDev\System\App\Models;
+namespace HuangChun\MetaSystem\App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Spatie\Permission\Models\Permission as PermissionModel;

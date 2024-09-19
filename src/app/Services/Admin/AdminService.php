@@ -1,15 +1,15 @@
 <?php
 
-namespace YFDev\System\App\Services\Admin;
+namespace HuangChun\MetaSystem\App\Services\Admin;
 
-use YFDev\System\App\Exceptions\Request\NotAllowDeleteException;
-use YFDev\System\App\Services\BaseService;
+use HuangChun\MetaSystem\App\Exceptions\Request\NotAllowDeleteException;
+use HuangChun\MetaSystem\App\Services\BaseService;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Log;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Illuminate\Auth\AuthManager;
-use YFDev\System\App\Http\Transforms\Models\AdminTransform;
-use YFDev\System\App\Repositories\Admin\AdminRepositoryInterface;
+use HuangChun\MetaSystem\App\Http\Transforms\Models\AdminTransform;
+use HuangChun\MetaSystem\App\Repositories\Admin\AdminRepositoryInterface;
 
 class AdminService extends BaseService
 {

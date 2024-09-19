@@ -1,12 +1,12 @@
 <?php
 
-use YFDev\System\App\Http\Controllers\TestController;
-use YFDev\System\App\Http\Controllers\AuthController;
-use YFDev\System\App\Http\Controllers\MediaController;
-use YFDev\System\App\Http\Controllers\AdminController;
-use YFDev\System\App\Http\Controllers\MenuController;
-use YFDev\System\App\Http\Controllers\SettingController;
-use YFDev\System\App\Http\Controllers\RoleController;
+use HuangChun\MetaSystem\App\Http\Controllers\TestController;
+use HuangChun\MetaSystem\App\Http\Controllers\AuthController;
+use HuangChun\MetaSystem\App\Http\Controllers\MediaController;
+use HuangChun\MetaSystem\App\Http\Controllers\AdminController;
+use HuangChun\MetaSystem\App\Http\Controllers\MenuController;
+use HuangChun\MetaSystem\App\Http\Controllers\SettingController;
+use HuangChun\MetaSystem\App\Http\Controllers\RoleController;
 use Illuminate\Support\Facades\Route;
 
 /**

@@ -1,9 +1,9 @@
 <?php
 
-namespace YFDev\System\App\Http\Requests\Menu;
+namespace HuangChun\MetaSystem\App\Http\Requests\Menu;
 
 use Illuminate\Validation\Rule;
-use YFDev\System\App\Http\Requests\BaseRequest;
+use HuangChun\MetaSystem\App\Http\Requests\BaseRequest;
 
 class UpdateRulesRequest extends BaseRequest
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace YFDev\System\App\Http\Controllers;
+namespace HuangChun\MetaSystem\App\Http\Controllers;
 
-use YFDev\System\App\Http\Requests\Auth\LoginRequest;
-use YFDev\System\App\Services\Auth\AuthService;
+use HuangChun\MetaSystem\App\Http\Requests\Auth\LoginRequest;
+use HuangChun\MetaSystem\App\Services\Auth\AuthService;
 
 class AuthController extends BaseController
 {

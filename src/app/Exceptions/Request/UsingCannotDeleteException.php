@@ -1,8 +1,8 @@
 <?php
 
-namespace YFDev\System\App\Exceptions\Request;
+namespace HuangChun\MetaSystem\App\Exceptions\Request;
 
-use YFDev\System\App\Constants\ErrorCode;
+use HuangChun\MetaSystem\App\Constants\ErrorCode;
 
 /**
  * 使用中無法刪除

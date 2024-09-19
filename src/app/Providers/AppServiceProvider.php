@@ -1,12 +1,12 @@
 <?php
 
-namespace YFDev\System\App\Providers;
+namespace HuangChun\MetaSystem\App\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Opcodes\LogViewer\Facades\LogViewer;
-use YFDev\System\App\LogViewer\MeilisearchLog;
+use HuangChun\MetaSystem\App\LogViewer\MeilisearchLog;
 use Opcodes\LogViewer\Logs\HorizonLog;
-use YFDev\System\App\Constants\ApiResponse;
+use HuangChun\MetaSystem\App\Constants\ApiResponse;
 
 class AppServiceProvider extends ServiceProvider
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace YFDev\System\App\Repositories\DummyNamespace;
+namespace HuangChun\MetaSystem\App\Repositories\DummyNamespace;
 
-use YFDev\System\App\Repositories\BaseRepositoryInterface;
+use HuangChun\MetaSystem\App\Repositories\BaseRepositoryInterface;
 
 interface DummyClassRepositoryInterface extends BaseRepositoryInterface
 {

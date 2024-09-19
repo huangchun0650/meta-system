@@ -1,11 +1,11 @@
 <?php
 
-namespace YFDev\System\App\Http\Controllers;
+namespace HuangChun\MetaSystem\App\Http\Controllers;
 
-use YFDev\System\App\Http\Requests\Menu\CreateRequest;
-use YFDev\System\App\Http\Requests\Menu\UpdateRequest;
-use YFDev\System\App\Models\Menu;
-use YFDev\System\App\Services\Menu\MenuService;
+use HuangChun\MetaSystem\App\Http\Requests\Menu\CreateRequest;
+use HuangChun\MetaSystem\App\Http\Requests\Menu\UpdateRequest;
+use HuangChun\MetaSystem\App\Models\Menu;
+use HuangChun\MetaSystem\App\Services\Menu\MenuService;
 
 class MenuController extends BaseController
 {
